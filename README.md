@@ -1,4 +1,4 @@
-# jogo Trivia (tipo um show do milhão americano rs) utilizando React e Redux, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban.#
+# jogo Trivia utilizando React e Redux, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban.#
 
 Projeto desenvolvido por um grupo de alunos:
 Kayck, Victor, Rafael Lacorte, Marcel e Fernando Costa.
